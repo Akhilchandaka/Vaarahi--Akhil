@@ -1,0 +1,14 @@
+https://github.com/Akhilchandaka/Vaarahi--Akhil.git
+
+
+echo "# Vaarahi--Akhil" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Akhilchandaka/Vaarahi--Akhil.git
+git push -u origin main
+
+git remote add origin https://github.com/Akhilchandaka/Vaarahi--Akhil.git
+git branch -M main
+git push -u origin main
